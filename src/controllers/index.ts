@@ -6,7 +6,7 @@ const Controller = {
     const data = {
       name: `Certificate #${id}`,
       description: "This is a Carbonable Certificate",
-      image: 'https://carbonable.infura-ipfs.io/ipfs/QmcaBb1f4aaupLFwpKaSWVNFXBMdEfLvp5WSUhUgtJX899',
+      image: 'ipfs://QmcaBb1f4aaupLFwpKaSWVNFXBMdEfLvp5WSUhUgtJX899',
       external_url: "https://www.carbonable.io",
       youtube_url: "https://youtu.be/5dZrROBmfKU",
       attributes: [
